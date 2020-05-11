@@ -1,5 +1,5 @@
 # ZerUns
-My Algorithm and Data Structure project for my MEEC course, which i developed with my collegue
+My Algorithm and Data Structure project for my MEEC course, which i developed with my collegue https://github.com/gmestre98
 
 The objective of this project is for our algorithm to solve a binary sudoku, reading the puzzles
 from the file and then writing a new file with the solution for each puzzle and indicating for the
